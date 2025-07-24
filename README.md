@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **JavaScript Projects**
 
-- 🌱 I’m currently learning **JavaScript, ReactJS, MetaSploit, SQL**
+- 🌱 I’m currently learning **JavaScript, ReactJS, MetaSploit, SQL, NodeJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
